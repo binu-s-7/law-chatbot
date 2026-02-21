@@ -1,0 +1,102 @@
+Software Engineering Course Modules
+
+1st year:
+
+Computer Systems Fundamentals
+Mathematics for Computing
+Software Development
+Trends in Computer Science
+Web Design and Development
+
+2nd year:
+
+Subjects of study include:
+
+Algorithms: Theory, Design and Implementation
+Database Systems
+Object Oriented Programming
+Software Development Group Project
+Software Engineering Principles and Practice
+
+Plus one option from the following:
+Machine Learning and Data Mining
+Mobile Application Development
+Operating Systems
+Robotic Principles
+Server-side Web Development
+
+3rd year:
+
+Subjects of study include:
+
+Concurrent Programming
+Cyber-Security
+Computer Science Final Project
+Formal Methods
+
+Plus two option modules from the following:
+Advanced Server-side Web Programming
+Applied Robotics
+Internet of Things
+Mobile Native Application Development
+Operational Research and Optimisation
+
+
+
+
+
+
+
+Computer Science Course Modules
+
+1st year:
+
+Subjects of study include:
+
+Computer Systems Fundamentals
+Mathematics for Computing
+Software Development
+Trends in Computer Science
+Web Design and Development
+
+2nd year:
+
+Subjects of study include:
+
+Object Oriented Programming
+Client-Server Architectures
+Software Development Group Project (work-based module)
+Database Systems
+
+options from one or a mix of the following routes:
+Business Information Systems
+Computer Engineering
+Data Science
+Games and Computer Graphics Development
+Mobile and Web Computing
+Usability and Interaction
+
+3rd year:
+
+Subjects of study include:
+
+Applied Artificial Intelligence
+Computer Science Final Project
+Cyber Security
+
+and options from one or a mix of the following routes:
+Business Information Systems
+Computer Engineering
+Data Science
+Games and Computer Graphics Development
+Mobile and Web Computing
+Usability and Interaction
+
+
+https://chat.openai.com/c/e2024e62-a260-4f2f-87c2-770c000c4a45
+
+
+https://www.westminster.ac.uk/computer-science-and-engineering-courses/2024-25/september/full-time/computer-science-bsc-honours
+
+https://www.westminster.ac.uk/computer-science-and-engineering-courses/2024-25/september/full-time/software-engineering-beng-honours
+
